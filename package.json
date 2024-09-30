@@ -1,0 +1,23 @@
+{
+  "name": "first-nodejs-webcrawler",
+  "version": "1.0.0",
+  "description": "My first node.js webcrawler",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krzysztofpaliga/first-nodejs-webcrawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krzysztofpaliga/first-nodejs-webcrawler/issues"
+  },
+  "homepage": "https://github.com/krzysztofpaliga/first-nodejs-webcrawler#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
